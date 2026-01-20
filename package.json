@@ -1,7 +1,7 @@
 {
   "name": "vaibhav-portfolio",
   "version": "0.1.0",
-  "private": true,
+  "private": true, // Updated for deployment
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
