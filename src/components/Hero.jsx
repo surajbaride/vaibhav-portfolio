@@ -1,7 +1,6 @@
 import React from 'react'
 import { motion } from 'framer-motion'
 import profile from '../img.JPG'
-import ThemeToggle from './ThemeToggle'
 
 export default function Hero(){
   return (
